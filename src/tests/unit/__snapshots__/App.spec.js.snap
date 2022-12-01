@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Internationalization renders correctly en 1`] = `
+<div>
+  password_recovery
+</div>
+`;
+
+exports[`App Internationalization renders correctly ru 1`] = `
+<div>
+  password_recovery
+</div>
+`;
+
+exports[`App Internationalization renders correctly uk 1`] = `
+<div>
+  password_recovery
+</div>
+`;
